@@ -1,1 +1,2 @@
-# UiPath_Panel_Prep
+# UiPathNotes
+Contains notes for UiPath
